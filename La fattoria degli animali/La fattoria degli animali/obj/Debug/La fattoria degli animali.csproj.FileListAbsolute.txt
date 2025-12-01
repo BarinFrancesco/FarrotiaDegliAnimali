@@ -1,0 +1,10 @@
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\FarrotiaDegliAnimali\La fattoria degli animali\La fattoria degli animali\bin\Debug\La fattoria degli animali.exe.config
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\FarrotiaDegliAnimali\La fattoria degli animali\La fattoria degli animali\bin\Debug\La fattoria degli animali.exe
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\FarrotiaDegliAnimali\La fattoria degli animali\La fattoria degli animali\bin\Debug\La fattoria degli animali.pdb
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\FarrotiaDegliAnimali\La fattoria degli animali\La fattoria degli animali\obj\Debug\La fattoria degli animali.csproj.AssemblyReference.cache
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\FarrotiaDegliAnimali\La fattoria degli animali\La fattoria degli animali\obj\Debug\La_fattoria_degli_animali.Form1.resources
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\FarrotiaDegliAnimali\La fattoria degli animali\La fattoria degli animali\obj\Debug\La_fattoria_degli_animali.Properties.Resources.resources
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\FarrotiaDegliAnimali\La fattoria degli animali\La fattoria degli animali\obj\Debug\La fattoria degli animali.csproj.GenerateResource.cache
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\FarrotiaDegliAnimali\La fattoria degli animali\La fattoria degli animali\obj\Debug\La fattoria degli animali.csproj.CoreCompileInputs.cache
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\FarrotiaDegliAnimali\La fattoria degli animali\La fattoria degli animali\obj\Debug\La fattoria degli animali.exe
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\FarrotiaDegliAnimali\La fattoria degli animali\La fattoria degli animali\obj\Debug\La fattoria degli animali.pdb

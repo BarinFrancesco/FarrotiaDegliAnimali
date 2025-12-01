@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\FarrotiaDegliAnimali\\La fattoria degli animali\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7CC489-DD81-47FA-951D-4DBA6CF6D37E}|La fattoria degli animali\\La fattoria degli animali.csproj|g:\\francesco\\x scuola\\superiori\\informatica\\compiti\\farrotiadeglianimali\\la fattoria degli animali\\la fattoria degli animali\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7CC489-DD81-47FA-951D-4DBA6CF6D37E}|La fattoria degli animali\\La fattoria degli animali.csproj|solutionrelative:la fattoria degli animali\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7CC489-DD81-47FA-951D-4DBA6CF6D37E}|La fattoria degli animali\\La fattoria degli animali.csproj|g:\\francesco\\x scuola\\superiori\\informatica\\compiti\\farrotiadeglianimali\\la fattoria degli animali\\la fattoria degli animali\\classifiglie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7CC489-DD81-47FA-951D-4DBA6CF6D37E}|La fattoria degli animali\\La fattoria degli animali.csproj|solutionrelative:la fattoria degli animali\\classifiglie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7CC489-DD81-47FA-951D-4DBA6CF6D37E}|La fattoria degli animali\\La fattoria degli animali.csproj|g:\\francesco\\x scuola\\superiori\\informatica\\compiti\\farrotiadeglianimali\\la fattoria degli animali\\la fattoria degli animali\\fattoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7CC489-DD81-47FA-951D-4DBA6CF6D37E}|La fattoria degli animali\\La fattoria degli animali.csproj|solutionrelative:la fattoria degli animali\\fattoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7CC489-DD81-47FA-951D-4DBA6CF6D37E}|La fattoria degli animali\\La fattoria degli animali.csproj|g:\\francesco\\x scuola\\superiori\\informatica\\compiti\\farrotiadeglianimali\\la fattoria degli animali\\la fattoria degli animali\\animale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7CC489-DD81-47FA-951D-4DBA6CF6D37E}|La fattoria degli animali\\La fattoria degli animali.csproj|solutionrelative:la fattoria degli animali\\animale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7CC489-DD81-47FA-951D-4DBA6CF6D37E}|La fattoria degli animali\\La fattoria degli animali.csproj|g:\\francesco\\x scuola\\superiori\\informatica\\compiti\\farrotiadeglianimali\\la fattoria degli animali\\la fattoria degli animali\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E7CC489-DD81-47FA-951D-4DBA6CF6D37E}|La fattoria degli animali\\La fattoria degli animali.csproj|solutionrelative:la fattoria degli animali\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fattoria.cs",
+              "DocumentMoniker": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\FarrotiaDegliAnimali\\La fattoria degli animali\\La fattoria degli animali\\Fattoria.cs",
+              "RelativeDocumentMoniker": "La fattoria degli animali\\Fattoria.cs",
+              "ToolTip": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\FarrotiaDegliAnimali\\La fattoria degli animali\\La fattoria degli animali\\Fattoria.cs",
+              "RelativeToolTip": "La fattoria degli animali\\Fattoria.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwEIAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T18:26:11.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassiFiglie.cs",
+              "DocumentMoniker": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\FarrotiaDegliAnimali\\La fattoria degli animali\\La fattoria degli animali\\ClassiFiglie.cs",
+              "RelativeDocumentMoniker": "La fattoria degli animali\\ClassiFiglie.cs",
+              "ToolTip": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\FarrotiaDegliAnimali\\La fattoria degli animali\\La fattoria degli animali\\ClassiFiglie.cs",
+              "RelativeToolTip": "La fattoria degli animali\\ClassiFiglie.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvwoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T18:23:02.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Animale.cs",
+              "DocumentMoniker": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\FarrotiaDegliAnimali\\La fattoria degli animali\\La fattoria degli animali\\Animale.cs",
+              "RelativeDocumentMoniker": "La fattoria degli animali\\Animale.cs",
+              "ToolTip": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\FarrotiaDegliAnimali\\La fattoria degli animali\\La fattoria degli animali\\Animale.cs",
+              "RelativeToolTip": "La fattoria degli animali\\Animale.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T18:17:42.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\FarrotiaDegliAnimali\\La fattoria degli animali\\La fattoria degli animali\\Form1.cs",
+              "RelativeDocumentMoniker": "La fattoria degli animali\\Form1.cs",
+              "ToolTip": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\FarrotiaDegliAnimali\\La fattoria degli animali\\La fattoria degli animali\\Form1.cs",
+              "RelativeToolTip": "La fattoria degli animali\\Form1.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwCoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T18:16:25.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Progettazione]",
+              "DocumentMoniker": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\FarrotiaDegliAnimali\\La fattoria degli animali\\La fattoria degli animali\\Form1.cs",
+              "RelativeDocumentMoniker": "La fattoria degli animali\\Form1.cs",
+              "ToolTip": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\FarrotiaDegliAnimali\\La fattoria degli animali\\La fattoria degli animali\\Form1.cs [Progettazione]",
+              "RelativeToolTip": "La fattoria degli animali\\Form1.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T17:46:38.217Z",
+              "EditorCaption": " [Progettazione]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
